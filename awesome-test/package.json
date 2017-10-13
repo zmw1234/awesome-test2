@@ -1,0 +1,11 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "server.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "package.json"
+  },
+  "author": "Zack winston",
+  "license": "ISC"
+}
